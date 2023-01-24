@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+.mainNav {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+  .navLi {
+    .lii {
+      margin-left: 15px;
+    }
+  }
+}
